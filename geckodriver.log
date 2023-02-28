@@ -1,0 +1,215 @@
+1676295451900	geckodriver	INFO	Listening on 127.0.0.1:65205
+1676295474906	geckodriver	INFO	Listening on 127.0.0.1:65233
+1676295612387	geckodriver	INFO	Listening on 127.0.0.1:65331
+1676295694128	geckodriver	INFO	Listening on 127.0.0.1:65411
+1676295697203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTC1hnu"
+1676295697635	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676295697642	Marionette	INFO	Listening on port 65422
+Read port: 65422
+WebDriver BiDi listening on ws://127.0.0.1:65412
+1676295697890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTC1hnu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65412/devtools/browser/dd52a88e-733b-4f83-b855-fcc948b859fa
+1676295701985	Marionette	INFO	Stopped listening on port 65422
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1676295708110	geckodriver	INFO	Listening on 127.0.0.1:65475
+1676295711178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileL4yaJ1"
+1676295711588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676295711596	Marionette	INFO	Listening on port 65485
+Read port: 65485
+WebDriver BiDi listening on ws://127.0.0.1:65476
+1676295711763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileL4yaJ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65476/devtools/browser/c238f9e6-73f7-420b-8d34-7ee96fe115e4
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676295716720	Marionette	INFO	Stopped listening on port 65485
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1676295752436	geckodriver	INFO	Listening on 127.0.0.1:49203
+1676295755494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49204" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilem4RQ5T"
+1676295755918	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676295755926	Marionette	INFO	Listening on port 49212
+Read port: 49212
+WebDriver BiDi listening on ws://127.0.0.1:49204
+1676295756102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilem4RQ5T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49204/devtools/browser/c7f16790-1c4f-44f9-a486-54197c319b9e
+1676295767071	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676298379207	Marionette	INFO	Stopped listening on port 49212
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "49262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemAmYeC"
+1676295777694	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676295777700	Marionette	INFO	Listening on port 49271
+Read port: 49271
+WebDriver BiDi listening on ws://127.0.0.1:49262
+1676295777864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilemAmYeC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49262/devtools/browser/2398fb83-196e-4e2c-aa43-01ea01bb4aa0
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://js.dvnfo.com/devicer.min.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tp88trk.com/scripts/sdk/everflow.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1676298376175	Marionette	INFO	Stopped listening on port 49271
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKJAbT5"
+1676297459094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676297459105	Marionette	INFO	Listening on port 50822
+Read port: 50822
+WebDriver BiDi listening on ws://127.0.0.1:50813
+1676297459348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileKJAbT5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50813/devtools/browser/4ae363cf-2822-4b81-bfa4-a8adf504e69b
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676298369567	Marionette	INFO	Stopped listening on port 50822
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "50877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3FKnQi"
+1676297497689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676297497696	Marionette	INFO	Listening on port 50886
+Read port: 50886
+WebDriver BiDi listening on ws://127.0.0.1:50877
+1676297497861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile3FKnQi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50877/devtools/browser/7ac83e60-f359-4d9f-8572-dc6cb9998f24
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676298371386	Marionette	INFO	Stopped listening on port 50886
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "50932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekSInuh"
+1676297518023	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676297518030	Marionette	INFO	Listening on port 50941
+Read port: 50941
+WebDriver BiDi listening on ws://127.0.0.1:50932
+1676297518246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekSInuh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50932/devtools/browser/109da540-bf7e-4123-bbe9-a779a4467ffe
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1676298373016	Marionette	INFO	Stopped listening on port 50941
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "51332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevQdc0k"
+1676298076411	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676298076418	Marionette	INFO	Listening on port 51340
+WebDriver BiDi listening on ws://127.0.0.1:51332
+Read port: 51340
+1676298076636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevQdc0k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51332/devtools/browser/e18b5432-469c-436e-8ee8-272e98aa5219
+1676298374222	Marionette	INFO	Stopped listening on port 51340
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4xigX0"
+1676298104911	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676298104918	Marionette	INFO	Listening on port 51384
+Read port: 51384
+WebDriver BiDi listening on ws://127.0.0.1:51375
+1676298105128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile4xigX0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51375/devtools/browser/39dcc2b1-dfd6-490b-bb9f-c5e015aa44e6
+1676298375035	Marionette	INFO	Stopped listening on port 51384
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBqGItb"
+1676298128429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676298128439	Marionette	INFO	Listening on port 51443
+Read port: 51443
+WebDriver BiDi listening on ws://127.0.0.1:51434
+1676298128603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileBqGItb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51434/devtools/browser/f638b25e-c7fb-4bfa-bc85-24e032bf989a
+1676298367538	Marionette	INFO	Stopped listening on port 51443
+Dynamically enable window occlusion 1
+1677245536690	geckodriver	INFO	Listening on 127.0.0.1:51308
+1677245539742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUZhHt0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677245540237	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677245540245	Marionette	INFO	Listening on port 51319
+Read port: 51319
+WebDriver BiDi listening on ws://127.0.0.1:51309
+1677245540434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileUZhHt0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51309/devtools/browser/602d718a-e6a4-4e7f-aa30-3761e14ab18c
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1677275795528	Marionette	INFO	Stopped listening on port 51319
+Dynamically enable window occlusion 1
+efox.exe" "--marionette" "--remote-debugging-port" "51371" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekumwJ0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677245577730	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677245577736	Marionette	INFO	Listening on port 51379
+WebDriver BiDi listening on ws://127.0.0.1:51371
+Read port: 51379
+1677245577961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekumwJ0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51371/devtools/browser/b4292efc-3c4f-4819-938e-092dd08e7029
+console.error: ({})
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yourtexasbenefits.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yourtexasbenefits.com."
+1677275156140	Marionette	INFO	Stopped listening on port 51379
+Dynamically enable window occlusion 1
